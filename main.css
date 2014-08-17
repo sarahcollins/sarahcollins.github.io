@@ -1,0 +1,39 @@
+html {
+    background-color: #f4f4f4;
+}
+
+body {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    max-width: 800px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #000000;
+    background-color: #f4f4f4;
+    a:link
+    {
+    color: #858586;
+    text-decoration: none;
+    }
+    a:visited
+    {
+    color: #858586;
+    text-decoration: none;
+    }
+}
+
+h1
+{
+    color: #465da0;
+    line-height: 1.3em;
+    font-weight: bold;
+    font-size: 32px;
+}
+ h2, h3, h4, h5, h6
+{
+    color: #465da0;
+    line-height: 1.3em;
+    font-size: 24px;
+    color: #000000;
+}
