@@ -1,4 +1,4 @@
 sarahcollins.github.io
 ======================
 
-Portfolio website
+Journalism | Content Strategy | Audience Development
