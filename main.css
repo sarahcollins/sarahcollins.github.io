@@ -11,17 +11,14 @@ body {
     line-height: 1.5em;
     color: #000000;
     background-color: #f4f4f4;
-    a:link
-    {
-    color: #858586;
-    text-decoration: none;
-    }
-    a:visited
-    {
-    color: #858586;
-    text-decoration: none;
-    }
 }
+
+  a        
+    {
+        color: #939598;
+        text-decoration: none;
+        font-weight: bold;
+    }
 
 h1
 {
@@ -29,11 +26,20 @@ h1
     line-height: 1.3em;
     font-weight: bold;
     font-size: 32px;
+    text-align: center;
 }
- h2, h3, h4, h5, h6
+h2
 {
     color: #465da0;
     line-height: 1.3em;
     font-size: 24px;
     color: #000000;
+    text-align: center;
+}
+h3, h4, h5, h6
+{
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #000000;
+    text-align: center;
 }
