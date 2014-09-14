@@ -22,9 +22,9 @@ body {
 
 h1
 {
-    color: #465da0;
+    color: #00980e;
     line-height: 1.3em;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: bold;
     font-size: 40px;
     text-align: center;
@@ -35,7 +35,7 @@ h2
 {
     color: #000000;
     line-height: 1.3em;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: normal;
     text-align: center;
@@ -43,7 +43,7 @@ h2
 
 h3
 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: normal;
     line-height: 1.5em;
