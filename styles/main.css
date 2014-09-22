@@ -82,7 +82,7 @@ hr
 {
     max-width: 600px;
     border: 0;
-    height: 1px;
-    background: #333;    
+    height: 20px;
+    background: url("../images/small_steps2.png");    
 }
 
